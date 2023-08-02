@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed AYDIN</h1>
 <h3 align="center">I'm a Student at Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedaydiiinn&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedaydiiinn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedaydiiinn&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedaydiiinn" /> </p>
 
 - 🌱 I’m currently learning **AI Algorithms, Java, Python and git**
 
