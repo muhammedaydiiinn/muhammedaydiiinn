@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedaydiiinn&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedaydiiinn" /> </p>
 
-- 🌱 I’m currently learning **AI Algorithms, Java, Python and git**
+- 🌱 I’m currently learning **AI Algorithms, Java, Python and Git**
+- 🌱 I’m developing myself in the field of data science.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
