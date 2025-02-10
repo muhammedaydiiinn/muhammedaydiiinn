@@ -1,0 +1,20 @@
+name: Generate 3D Contribution Graph
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.5.0
+        with:
+          username: 'muhammedaydiiinn'
+          token: ${{ secrets.GITHUB_TOKEN }}
