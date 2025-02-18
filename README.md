@@ -50,5 +50,3 @@
   <img alt="github-snake" src="https://github.com/muhammedaydiiinn/muhammedaydiiinn/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedaydiiinn&show_icons=true&locale=en" alt="muhammedaydiiinn" /></p>
