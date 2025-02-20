@@ -43,10 +43,10 @@
 */
 --->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diyarguzelses&theme=tokyonight&no-frame=true&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedaydiiinn&theme=tokyonight&no-frame=true&margin-w=10">
 </p>  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedaydiiinn&theme=tokyonight&hide_border=true">
 </p>  
 <div  align="center">
 
