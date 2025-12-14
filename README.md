@@ -51,8 +51,8 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedaydiiinn&show_icons=true&theme=radical&count_private=true" alt="muhammedaydiiinn :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedaydiiinn&theme=radical&layout=compact&count_private=true" alt="muhammedaydiiinn :: Top Langs" />
+  <img src="https://github-readme-stats-gamma-three-49.vercel.app/api?username=muhammedaydiiinn&show_icons=true&theme=radical&count_private=true" alt="muhammedaydiiinn :: Profile Stats" />
+  <img src="https://github-readme-stats-gamma-three-49.vercel.app/api/top-langs/?username=muhammedaydiiinn&theme=radical&layout=compact&count_private=true" alt="muhammedaydiiinn :: Top Langs" />
 </p>
  
 <p align="center">
