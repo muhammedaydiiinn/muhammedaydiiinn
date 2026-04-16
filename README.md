@@ -11,7 +11,7 @@
 - Hands-on with **Docker, Linux/Unix Systems, Virtualization, and AWS**
 - Interested in **DevOps practices, scalable architectures, and backend systems**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect With Me</h3>
 <div align="center" style="line-height:0;">
   <a href="https://www.linkedin.com/in/muhammedaydiiin" target="_blank" style="display:inline-block; margin:0 10px;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="42" style="display:block;" />
