@@ -12,11 +12,20 @@
 - Interested in **DevOps practices, scalable architectures, and backend systems**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammedaydiiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedaydiiin" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammedaydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammedaydin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammedaydiiin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammedaydiiin1" height="30" width="40" /></a>
-</p>
+<div align="center" style="line-height:0;">
+  <a href="https://www.linkedin.com/in/muhammedaydiiin" target="_blank" style="display:inline-block; margin:0 10px;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="42" style="display:block;" />
+  </a>
+  <a href="https://www.kaggle.com/muhammedaydin" target="_blank" style="display:inline-block; margin:0 10px;">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Kaggle" height="42" style="display:block;" />
+  </a>
+  <a href="https://muhammed-aydin.com/" target="_blank" style="display:inline-block; margin:0 10px;">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Website" height="42" style="display:block;" />
+  </a>
+  <a href="mailto:muhammedaydiiinnn@gmail.com" style="display:inline-block; margin:0 10px;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="42" style="display:block;" />
+  </a>
+</div>
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center"> 
@@ -88,12 +97,6 @@
 </div>
  
 
-
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats-gamma-three-49.vercel.app/api?username=muhammedaydiiinn&show_icons=true&theme=radical&count_private=true" alt="muhammedaydiiinn :: Profile Stats" />
-  <img src="https://github-readme-stats-gamma-three-49.vercel.app/api/top-langs/?username=muhammedaydiiinn&theme=radical&layout=compact&count_private=true" alt="muhammedaydiiinn :: Top Langs" />
-</p>
  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedaydiiinn&theme=tokyonight&hide_border=true">
