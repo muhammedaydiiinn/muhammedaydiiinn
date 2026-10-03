@@ -97,12 +97,12 @@
 </div>
  
 <br><br>
- 
+ <!-- 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedaydiiinn&theme=tokyonight&hide_border=true">
 </p>  
 <div  align="center">
-
+-->
 <div  align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammedaydiiinn/muhammedaydiiinn/blob/output/github-contribution-grid-snake-dark.svg" />
